@@ -26,7 +26,7 @@ By searching for all molecules in the chembl_35 database which have:
 - and contain both a ketone and benzene ring
 
 We can visualize the results as follows
->![Image of Molecules Matching Query]('/Cheminformatics_projects/ChEMBL to post/SMARTS_pg_query/example.png')
+>![Image of Molecules Matching Query](Cheminformatics_projects/ChEMBL/SMARTS_pg_query/example.png)
 
 ---
 
